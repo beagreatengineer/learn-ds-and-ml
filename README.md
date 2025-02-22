@@ -1,5 +1,3 @@
-# learn-data-science-and-machine-learning
-
 ## Mathematics
 - [(Book, Free) Mathematics for Machine Learning](https://mml-book.github.io/)
 - [(Book, Free) A Programmer's Introduction to Mathematics](https://pimbook.org/)
